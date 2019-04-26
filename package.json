@@ -1,0 +1,27 @@
+{
+  "name": "friendsfinder",
+  "version": "1.0.0",
+  "description": "match",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "init": "^0.1.2",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddy421/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddy421/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/freddy421/FriendFinder#readme"
+}
